@@ -1,1 +1,2 @@
-test craetion file in git
+test creation file in git
+Hello from idea
